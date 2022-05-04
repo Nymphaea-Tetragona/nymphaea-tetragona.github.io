@@ -1,0 +1,1 @@
+{"name":"ToDo App by NFI","short_name":"todoapp","theme_color":"#ffffff","icons":[{"src":"/android-chrome-96x96.png","sizes":"96x96","type":"image/png"}],"start_url":"index.html","display":"standalone","background_color":"#ffffff","scope":"./"}
