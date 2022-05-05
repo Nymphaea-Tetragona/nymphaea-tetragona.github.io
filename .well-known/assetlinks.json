@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.nfa.todoapp",
+                     "sha256_cert_fingerprints": ["CF:4F:3A:EA:9B:59:D1:72:7A:E8:C2:B9:E3:CC:C1:C6:22:5E:AE:D6:56:E7:29:26:66:3D:A3:61:F2:6F:FA:DF"] }
+      }
+]
